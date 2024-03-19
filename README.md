@@ -1,13 +1,10 @@
-############
 # Pending
-############
-# Add Requirements files for all projects and ensure they work on download
-# Add description for all projects
+## # Add Requirements files for all projects and ensure they work on download
+## # Add description for all projects
 
-############
+
 # Git Commit
-############
-# Git commands
+## # Git commands
 echo "# portfolio" >> README.md
 
 git init
