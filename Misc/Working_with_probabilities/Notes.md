@@ -1,11 +1,4 @@
-Marriage_prob_notes
-
-Compassion and Empathy
-Honest
-Passion and ambition
-
-and what is the possibility for women?
-Based on following parameters, can you create a formula to calculate the probability of any on man getting married based on age range and the same for women?
+Based on following parameters, create a formula to calculate the probability of any on man getting married based on age range and the same for women?
 
 Assumming that male and female ratio is 50-50
 A person has to get married between 20 and 50 years of age, becoming eligible at 20 and stopping trying to find a spouse at 50 due to old age
@@ -22,7 +15,6 @@ Women unless they have a child, gain attractiveness due to wealth, otherwise gai
 Porn is causing promiscuous women to be richer, which generally makes them unattractive. This option is usually chosen by women who aren't rich but young.
 
 The weightage becomes expoential at extremes of a factor i.e. everyone wants to marry someone with 0.99 attractiveness or beauty or wealth whereas no one wants to marry someone with 0.01 attractiveness or beauty or wealth, its not linear or a matter of probability.
-Can you correctly incorporate this in the mathematical model?
 
 2. Also, change in probability with changing any factor is very less, can you improve the code accordingly?
 3. Lastly, the probability is still maxed at age 35 due to the setup. I expect the age to vary based on the given factors like attractiveness, age(given attractiveness decreases with age and there are less women too marry)
