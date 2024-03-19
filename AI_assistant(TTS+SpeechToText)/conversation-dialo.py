@@ -16,3 +16,7 @@ output = model.generate(inputs, max_length=150, num_return_sequences=1, no_repea
 response = tokenizer.decode(output[0], skip_special_tokens=True)
 
 print(response)
+
+########################
+# Need to keep the model active for conversation
+########################
